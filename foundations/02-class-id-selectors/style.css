@@ -2,9 +2,13 @@
 
 /* Odd numbers in <p>... */
 
-p {
+.odd {
     background-color: rgba(207, 117, 117, 0.74);
     font-family: "Veranda","DejaVu Sans", sans-serif;
+}
+
+.font-size24 {
+  font-size: 24px;
 }
 
 #two {
@@ -14,6 +18,5 @@ p {
 
 #four {
     background-color: rgb(77, 235, 77);
-    font-size: 42px;
     font-weight: 700;
 }
