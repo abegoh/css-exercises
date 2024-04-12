@@ -1,0 +1,35 @@
+/* #1 using class to implement styles */
+
+/* .container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* #2 using type only to implement styles */
+
+ /* div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */ 
+
+/* #3 using type and class to implement styles */
+
+ /* .container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}  */
+
+/* OR */
+
+ div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
