@@ -1,0 +1,19 @@
+/* styles */
+
+/* Odd numbers in <p>... */
+
+p {
+    background-color: rgba(207, 117, 117, 0.74);
+    font-family: "Veranda","DejaVu Sans", sans-serif;
+}
+
+#two {
+  color: blue;
+  font-size: 36px;  
+}
+
+#four {
+    background-color: rgb(77, 235, 77);
+    font-size: 42px;
+    font-weight: 700;
+}
