@@ -1,0 +1,17 @@
+/* styles */
+.clickL{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.clickR{
+    background-color: yellow;
+}
+
+.clickL,
+.clickR {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
